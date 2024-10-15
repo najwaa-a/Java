@@ -19,7 +19,7 @@ public class ContohIfElse {
         if (x > 10) {
             System.out.println("x lebih besar dari 10");
         }
-        else if (x > 5) {
+        else if (x > 6) {
             System.out.println( "x lebih besar dari 5, tapi tidak lebih besar dari 10");
         }
         else if (x > 0) {
