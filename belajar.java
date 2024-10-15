@@ -17,7 +17,7 @@ public class belajar {
                 System.out.println("DUA");
                 break;
             case 3:
-                System.out.println("TIGA");
+                System.out.println("YAHAHAHHA");
                 break;
 
             default:
